@@ -1,0 +1,53 @@
+/**
+ * @name NEEDY DISCORD OVERLOAD
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=VT323:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/mknIUkD.png');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://cdn.weasyl.com/static/media/85/84/34/85843439b74ffbea77b5b8d14f48f4d6fa0b2a361a12f2b143698a141adf0435.png');
+  --popout-image-blur: 0px;
+  --popout-image-size: 150%;
+  --popout-image-position: center right;
+  --overlay-image: url('https://cdn.weasyl.com/static/media/85/84/34/85843439b74ffbea77b5b8d14f48f4d6fa0b2a361a12f2b143698a141adf0435.png');
+  --overlay-image-blur: 0px;
+  --overlay-image-size: 200%;
+  --overlay-image-position: center left;
+  --home-button-image: url('https://i.imgur.com/SBnhEE4.png');
+  --home-button-size: 100%;
+  --home-button-position: center;
+  --serverlist-brightness: 0;
+  --left-brightness: 0;
+  --middle-brightness: 0;
+  --right-brightness: 0;
+  --overlay-brightness: 0;
+  --gradient-primary: 0,0,0;
+  --gradient-secondary: 0,0,0;
+  --link-colour: #000000;
+  --scrollbar-colour: rgb(233,30,99,1);
+  --gradient-direction: 0deg;
+  --tint-colour: 255,0,255;
+  --tint-brightness: 0.32;
+  --font: VT323;
+  --window-padding: 20px;
+  --window-roundness: 10px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
