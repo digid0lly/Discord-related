@@ -1,0 +1,55 @@
+/**
+ * @name DARK DISCORD ANGEL
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=VT323:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.ytimg.com/vi/aIVPvuql5x8/maxresdefault.jpg');
+  --background-image-blur: 3px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://www.ungeek.ph/wp-content/uploads/2023/03/Rumor_Needy_Streamer_Overload_Manga.jpg');
+  --popout-image-blur: 2px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://i.ytimg.com/vi/HpLWffRD5-0/maxresdefault.jpg');
+  --overlay-image-blur: 3px;
+  --overlay-image-size: 150%;
+  --overlay-image-position: center;
+  --home-button-image: url('https://static.wikia.nocookie.net/needy-streamer-overload/images/f/ff/21icon.png');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 1;
+  --left-brightness: 0.46;
+  --middle-brightness: 0.46;
+  --right-brightness: 0.46;
+  --overlay-brightness: 0.34;
+  --gradient-primary: 0,0,0;
+  --gradient-secondary: 217,0,0;
+  --link-colour: #FFFFFF;
+  --scrollbar-colour: rgb(255,0,0,1);
+  --gradient-direction: 317deg;
+  --tint-colour: 225,0,45;
+  --tint-brightness: 0.6;
+  --font: VT323;
+  --window-padding: 0px;
+  --window-roundness: 0px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
